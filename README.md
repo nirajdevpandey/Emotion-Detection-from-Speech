@@ -4,7 +4,7 @@
 
 Given a voice detecting emotion it holds. Such as - Angry, Happy, Sad, Disgust, Neutral, Surprise &amp; Pleasant. Etc...
 
-the accuracy of the model is really bad at the moment , Hold on .... till December 15. You will see a good model. Thanks 
+Many more good model will be uploaded before 15 Dec. Hold on You will see many better models with impressive accuracy. Thanks 
 
 
 Find complete 2800 stimuli here on my google drive - https://drive.google.com/drive/u/0/my-drive
