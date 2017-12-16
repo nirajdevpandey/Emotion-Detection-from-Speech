@@ -2,12 +2,7 @@
 
 
 
-Given a voice detecting emotion it holds. Such as - Angry, Happy, Sad, Disgust, Neutral, Surprise &amp; Pleasant. Etc...
-
-Many more good model will be uploaded before 15 Dec. Hold on You will see many better models with impressive accuracy. Thanks 
-
-
-Find complete 2800 stimuli here on my google drive - https://drive.google.com/drive/u/0/my-drive
+Given a voice detecting emotion it holds. Such as - Angry, Happy, Sad, Disgust, Neutral, Surprise &amp; Pleasant. Etc... 
 
 Ensembles are created by @dhawal. @Manish Mishra helped me in many ways too. Heartily Thanks to both of them.
 
