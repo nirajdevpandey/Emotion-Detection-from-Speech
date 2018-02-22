@@ -16,11 +16,11 @@ Since there is no way to download whole data set at one click, you have to click
 # For prediction
 put input files (for which you want to predict emotion) in folder name new_test_sounds
 
-run script ensemble_emotion_simulation.py
+run script emotion_simulation.py
 
 # For training 
 put audio files in folder name train_sounds
 
-run script ensemble_emotion_training.py
+run script emotion_training.py
 
 it will save the trained model as Ensemble_Model_protocol2.sav
