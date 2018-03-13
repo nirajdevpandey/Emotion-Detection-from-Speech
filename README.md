@@ -21,7 +21,7 @@ run the training script
 
 it will save the trained model as xyz_Model_protocol2.sav
 
-# For prediction
+## For prediction
 put input files (for which you want to predict emotion) in folder name test_sounds
 
 run the test script
