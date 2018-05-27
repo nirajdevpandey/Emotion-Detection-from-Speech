@@ -4,7 +4,7 @@
 
 Given a voice detecting emotion it holds. Such as - Angry, Happy, Sad, Disgust, Neutral, Surprise &amp; Pleasant. Etc... 
 
-Ensembles are created by @dhawal. @Manish Mishra helped me in many ways too. Heartily Thanks to both of them.
+@dhawal & @Manish Mishra helped me in many ways. Heartily Thanks to both of them.
 
 ## File name & Download
 The speeches used for this project had some specific naming format that one need to put attention on. 
