@@ -16,10 +16,10 @@ Given a voice detecting emotion it holds. Such as - Angry, Happy, Sad, Disgust, 
 
 ## File name & Download
 The speeches used for this project had some specific naming format that one need to put attention on. 
-Our file has [OAF_bite_neutral] this name format. Since we have 2 speakers old and young, here this voice was uttered by old speaker and this voice [YAF_back_fear] a young speaker. One sould visit the website of data set to understand it well enough. 
+Our file has `OAF_bite_neutral` this name format. Since we have 2 speakers old and young, here this voice was uttered by old speaker and this voice `YAF_back_fear` a young speaker. One sould visit the website of data set to understand it well enough. 
 https://tspace.library.utoronto.ca/handle/1807/24487
 
-Since there is no way to download whole data set at one click, you have to click at least 3,000 times if you will go by conventional way of downloading. Don't waste your time in downloading one and one file. Just add an extention "Download Master" for Chrome users. it will help you to collect whole data in few clicks. of course it is a time consuming process. Very soon you can get whole data on my online drive. Be patient till then. 
+Since there is no way to download whole data set at one click, you have to click at least 3,000 times if you will go by conventional way of downloading. Don't waste your time in downloading one and one file. Just add an extention `Download Master` for Chrome users. it will help you to collect whole data in few clicks. of course it is a time consuming process. Very soon you can get whole data on my online drive. Be patient till then. 
 
 ### Librosa was used to extract the feature out of a given voice. 
 ```python
